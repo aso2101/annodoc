@@ -29,7 +29,6 @@ bhuktaṁ mānavivarjitaṁ paragr̥hē āśaṅkayā kākavat
 root(bhuktaṁ)
 advmod(bhuktaṁ, mānavivarjitaṁ)
 advmod(bhuktaṁ, paragr̥hē)
-nsubj(bhuktaṁ, bhuktaṁ)
 advmod(bhuktaṁ , āśaṅkayā)
 advmod(bhuktaṁ, kākavat)
 ~~~
