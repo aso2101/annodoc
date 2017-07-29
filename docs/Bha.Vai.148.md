@@ -5,13 +5,13 @@ title: Vairāgyaśataka 148
 
 ~~~ sdparse
 bhrāntvā dēśam anēkadurgaviṣamaṁ prāptaṁ na kiṁcit phalaṁ
-obj(1,2)
-amod(2,3)
-amod(7,6)
-root(4)
-nsubj(4,7)
-neg(4,5)
-xcomp(4,1)
+obj(bhrāntvā, dēśam)
+amod(dēśam, anēkadurgaviṣamaṁ)
+amod(phalaṁ, kiṁcit)
+root(prāptaṁ)
+nsubj(prāptaṁ,phalaṁ)
+neg(prāptaṁ,na)
+xcomp(prāptaṁ, bhrāntvā)
 ~~~
 
 ~~~ sdparse
