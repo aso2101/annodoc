@@ -15,7 +15,13 @@ xcomp(prāptaṁ, bhrāntvā)
 ~~~
 
 ~~~ sdparse
-tyaktvā jātikulābhimānam ucitaṁ sevā kṛtā niṣphalā
+tyaktvā jātikulābhimānam ucitaṁ sevā kr̥tā niṣphalā
+obj(tyaktvā, jātikulābhimānam)
+amod(jātikulābhimānam, ucitaṁ)
+nsubj(kr̥tā, sevā)
+amod(sevā, niṣphalā)
+root(kr̥tā)
+xcomp(kr̥tā, tyaktvā)
 ~~~
 
 ~~~ sdparse
